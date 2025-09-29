@@ -4,11 +4,11 @@ This repository collects the **materials and methods** used during the research-
 
 ## Repository Structure  
 
-### 📂 [Meetings Programs](./Meetings%20Programs)  
+### 📂 [Meetings Program](./Meetings%20Program)  
 Contains the programs of the main meetings conducted during the research training:  
-- **Plenary Meeting** → [Plenary meeting Program (research-training phase2).pdf](./Meetings%20Programs/Plenary%20meeting%20Program%20(research-training%20phase2).pdf)  
-- **Dedicated Preschool Meeting** → [Dedicated meeting Program (research-training phase3).pdf](./Meetings%20Programs/Dedicated%20meeting%20Program%20(research-training%20phase3).pdf)  
-- **End-Training Meeting** → [End-training meeting Program (research-training phase7).pdf](./Meetings%20Programs/End-training%20meeting%20Program%20(research-training%20phase7).pdf)  
+- **Plenary Meeting** → [Plenary meeting Program (research-training phase2).pdf](./Meetings%20Program/Plenary%20meeting%20Program%20(research-training%20phase2).pdf)  
+- **Dedicated Preschool Meeting** → [Dedicated meeting Program (research-training phase3).pdf](./Meetings%20Program/Dedicated%20meeting%20Program%20(research-training%20phase3).pdf)  
+- **End-Training Meeting** → [End-training meeting Program (research-training phase7).pdf](./Meetings%20Program/End-training%20meeting%20Program%20(research-training%20phase7).pdf)  
 
 ### 📂 [Materials](./Materials)  
 Contains the materials used and produced during the research training:  
