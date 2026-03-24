@@ -17,8 +17,8 @@ Contains the materials used and produced during the research training:
 - **Questions and Answers** used to generate the robot’s history → [questions and answers to produce prompt (research-training phase2).pdf](./Materials/questions%20and%20answers%20to%20produce%20prompt%20(research-training%20phase%202).pdf)  
 - **Buddy Prompt** used to generate the robot’s answers → [Buddy prompt.pdf](./Materials/Buddy%20prompt.pdf)  
 - **Semi-Structured Logbook** provided to teachers to annotate experimental sessions → [semistructured logbook.pdf](./Materials/semistructured%20logbook.pdf) 
-- **Observation Grid** contain the observation grid used → [Observation grid.pdf](./Materials/observation%grid.pdf) 
-- **Observation Grid Description** contain the definition and explaination of each item of observation grid used → [Observation grid Description.pdf](./Materials/observation%grid%description.pdf)
+- **Observation Grid** contain the observation grid used → [Observation grid.pdf](./Materials/observation%20grid.pdf) 
+- **Observation Grid Description** contain the definition and explaination of each item of observation grid used → [Observation grid Description.pdf](./Materials/observation%20grid%20description.pdf)
 
 ## 📂 [Applications](./Applications) 
 Contains one structured and one unstructured activities used during the experiments
