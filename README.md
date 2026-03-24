@@ -1,6 +1,6 @@
-# Project XX – Research-Training Materials and Methods  
+# Project SONRIE (SOcial eNtertaining Robotics for Intercultural Education)   
 
-This repository collects the **materials and methods** used during the research-training process of teachers for **Project XX**.  
+This repository collects the **materials and methods** used during the Teachers Training Development Research TPDR process of teachers for **Project SONRIE**.  
 
 ## Repository Structure  
 

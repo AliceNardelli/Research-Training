@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clickable="true"
+    android:focusable="true"
+    android:id="@+id/view_face">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textSize="24sp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:padding="16dp" />
+
+    <ImageButton
+        android:id="@+id/buttonstart"
+        android:layout_width="110dp"
+        android:layout_height="90dp"
+        android:layout_below="@id/textView"
+        android:layout_marginTop="230dp"
+        android:padding="16dp"
+        android:text=""
+        android:gravity="center"
+        android:scaleType="fitCenter"
+        android:src="@drawable/start"
+        android:visibility="visible"
+        android:contentDescription="start"/>
+
+    <ImageButton
+        android:id="@+id/buttonstop"
+        android:layout_width="110dp"
+        android:layout_height="90dp"
+        android:layout_below="@id/textView"
+        android:layout_marginTop="230dp"
+        android:layout_marginLeft="130dp"
+        android:padding="16dp"
+        android:text=""
+        android:gravity="center"
+        android:scaleType="fitCenter"
+        android:src="@drawable/stopp"
+        android:visibility="visible"
+        android:contentDescription="stop"/>
+
+    <ImageButton
+        android:id="@+id/buttonpresentazione"
+        android:layout_width="70dp"
+        android:layout_height="65dp"
+        android:layout_below="@id/textView"
+        android:layout_marginTop="195dp"
+        android:layout_marginLeft="550dp"
+        android:padding="5dp"
+        android:text=""
+        android:gravity="center"
+        android:scaleType="fitCenter"
+        android:src="@drawable/io"
+        android:visibility="visible"
+        android:contentDescription="stop"
+        android:layout_alignParentEnd="true"/>
+
+    <ImageButton
+        android:id="@+id/buttonstagione"
+        android:layout_width="70dp"
+        android:layout_height="65dp"
+        android:layout_below="@id/textView"
+        android:layout_marginTop="0dp"
+        android:layout_marginLeft="550dp"
+        android:padding="5dp"
+        android:text=""
+        android:gravity="center"
+        android:scaleType="fitCenter"
+        android:src="@drawable/stagioni"
+        android:visibility="visible"
+        android:contentDescription="stop"
+        android:layout_alignParentEnd="true"/>
+
+
+    <ImageButton
+        android:id="@+id/buttongiorno"
+        android:layout_width="70dp"
+        android:layout_height="65dp"
+        android:layout_below="@id/textView"
+        android:layout_marginTop="70dp"
+        android:layout_marginLeft="550dp"
+        android:padding="5dp"
+        android:text=""
+        android:gravity="center"
+        android:scaleType="fitCenter"
+        android:src="@drawable/giornisettimana"
+        android:visibility="visible"
+        android:contentDescription="stop"
+        android:layout_alignParentEnd="true"/>
+
+
+    <ImageButton
+        android:id="@+id/buttonmeteo"
+        android:layout_width="70dp"
+        android:layout_height="65dp"
+        android:layout_below="@id/textView"
+        android:layout_marginTop="130dp"
+        android:layout_marginLeft="550dp"
+        android:padding="5dp"
+        android:text=""
+        android:gravity="center"
+        android:scaleType="fitCenter"
+        android:src="@drawable/sole"
+        android:visibility="visible"
+        android:contentDescription="stop"
+        android:layout_alignParentEnd="true"/>
+
+
+    <ImageButton
+        android:id="@+id/buttondance"
+        android:layout_width="70dp"
+        android:layout_height="65dp"
+        android:layout_below="@id/textView"
+        android:layout_marginTop="260dp"
+        android:layout_marginLeft="550dp"
+        android:padding="5dp"
+        android:text=""
+        android:gravity="center"
+        android:scaleType="fitCenter"
+        android:src="@drawable/ballo"
+        android:visibility="visible"
+        android:contentDescription="stop"
+        android:layout_alignParentEnd="true"/>
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="449dp"
+        android:layout_height="392dp"
+        android:layout_below="@id/textView"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="-27dp"
+        app:srcCompat="@drawable/flag_it"
+        android:visibility="gone"/>
+
+</RelativeLayout>
